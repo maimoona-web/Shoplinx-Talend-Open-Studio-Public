@@ -89,6 +89,3 @@ The solution provided structured, clean, and analysis-ready data, enabling data-
 - SQL validation queries
 
 ---
-
-## Disclaimer
-This project was completed for academic and portfolio purposes. No confidential business data is publicly shared.
